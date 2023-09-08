@@ -1,0 +1,21 @@
+body {
+  background-color: #ffffff; 
+}
+
+.navbar {
+  background-color: #f8f9fa; // This is a light grey color
+  color: #000000; // This is black color for the text
+}
+
+#netlify-identity-widget {
+  position: fixed;
+  top: 0;
+  left: 0;
+  border: none;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  background-color: lightgray; // change the color as needed
+  display: none;
+  z-index: 99;
+}
