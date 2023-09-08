@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Into TN | My Online Courses</title>
-    <link>https://example.com/course/data-science/</link>
-      <atom:link href="https://example.com/course/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <title>Into TN | Tensor Network Reading Group</title>
+    <link>http://tensor-networks.github.io/rg/course/data-science/</link>
+      <atom:link href="http://tensor-networks.github.io/rg/course/data-science/index.xml" rel="self" type="application/rss+xml" />
     <description>Into TN</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/course/data-science/featured.jpg</url>
+      <url>http://tensor-networks.github.io/rg/course/data-science/featured.jpg</url>
       <title>Into TN</title>
-      <link>https://example.com/course/data-science/</link>
+      <link>http://tensor-networks.github.io/rg/course/data-science/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://example.com/course/data-science/python/</link>
+      <link>http://tensor-networks.github.io/rg/course/data-science/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/course/data-science/python/</guid>
+      <guid>http://tensor-networks.github.io/rg/course/data-science/python/</guid>
       <description>&lt;!-- 
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks
 
@@ -56,9 +56,9 @@
     
     <item>
       <title></title>
-      <link>https://example.com/course/data-science/stats/</link>
+      <link>http://tensor-networks.github.io/rg/course/data-science/stats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/course/data-science/stats/</guid>
+      <guid>http://tensor-networks.github.io/rg/course/data-science/stats/</guid>
       <description>&lt;!-- 
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks
 
@@ -90,9 +90,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title></title>
-      <link>https://example.com/course/data-science/visualization/</link>
+      <link>http://tensor-networks.github.io/rg/course/data-science/visualization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/course/data-science/visualization/</guid>
+      <guid>http://tensor-networks.github.io/rg/course/data-science/visualization/</guid>
       <description>&lt;!-- 
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks
 
