@@ -9,29 +9,29 @@ title: Farzaneh Heidari
 # role: Python Instructor
 
 # Organizations/Affiliations
-organizations:
-  - name: Stanford University
-    url: ''
+# organizations:
+#   - name: Stanford University
+#     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+# interests:
+#   - Artificial Intelligence
+#   - Computational Linguistics
+#   - Information Retrieval
 
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+# education:
+#   courses:
+#     - course: PhD in Artificial Intelligence
+#       institution: Stanford University
+#       year: 2012
+#     - course: MEng in Artificial Intelligence
+#       institution: Massachusetts Institute of Technology
+#       year: 2009
+#     - course: BSc in Artificial Intelligence
+#       institution: Massachusetts Institute of Technology
+#       year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -59,5 +59,5 @@ highlight_name: false
 user_groups:
   - Teachers
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+<!-- 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->

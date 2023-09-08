@@ -8,17 +8,15 @@ tags:
   - previous
 ---
 
-{{< figure src="featured.jpg" >}}
+<!-- {{< figure src="featured.jpg" >}} -->
 
-{{< toc hide_on="xl" >}}
+<!-- {{< toc hide_on="xl" >}} -->
 
 ## What you will learn
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+- a summary of the talk
 
-## Program overview
+<!-- ## Program overview
 
 
 
@@ -28,5 +26,5 @@ tags:
 ## Meet your instructor
 
 
-## FAQs
+## FAQs -->
 
