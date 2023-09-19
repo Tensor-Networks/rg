@@ -40,13 +40,13 @@ title: Farzaneh Heidari
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:farzaneh.heidari@mila.quebec'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/farzana0
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

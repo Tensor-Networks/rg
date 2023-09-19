@@ -380,7 +380,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   "  >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class="page-wrapper   "  >
 
   
   
@@ -457,7 +457,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/rg/" data-target="[]"><span>Home</span></a>
+            <a class="nav-link  active" href="/rg/" data-target="[]"><span>Home</span></a>
           </li>
 
           
@@ -714,7 +714,7 @@
         
         
 
-        <img src="/rg/media/teacher_hu784a39f9d96b704b4dd5f0bdccfdeec2_10151_400x0_resize_lanczos_3.png" srcset="/rg/media/teacher_hu784a39f9d96b704b4dd5f0bdccfdeec2_10151_1200x0_resize_lanczos_3.png 1200w,/rg/media/teacher_hu784a39f9d96b704b4dd5f0bdccfdeec2_10151_800x0_resize_lanczos_3.png 800w,/rg/media/teacher_hu784a39f9d96b704b4dd5f0bdccfdeec2_10151_400x0_resize_lanczos_3.png 400w" width="176" height="182" alt="">
+        <img src="/rg/media/teacher_hu7027b6c523036e1cb49cc3bb133b9f19_42376_400x0_resize_lanczos_3.png" srcset="/rg/media/teacher_hu7027b6c523036e1cb49cc3bb133b9f19_42376_1200x0_resize_lanczos_3.png 1200w,/rg/media/teacher_hu7027b6c523036e1cb49cc3bb133b9f19_42376_800x0_resize_lanczos_3.png 800w,/rg/media/teacher_hu7027b6c523036e1cb49cc3bb133b9f19_42376_400x0_resize_lanczos_3.png 400w" width="960" height="720" alt="">
       
     
   </div>
@@ -797,62 +797,43 @@
   <div class="col-12 col-lg-8">
     <hr>
 <section id="courses" class="some-section">
-    <div class="container" style="font-family: 'Arial, sans-serif';">
-        <div class="row">
-            <div class="col-sm-2"></div>
-            <div class="col-sm-8">
-                <div class="listing" style="clear:both;">
-                    <div class="left" style="margin-bottom: 20px;">
-                        <h3 style="text-align:center; font-style: italic;">Upcoming Talks</h3>
-                        <h4 style="margin-top: 20px;">[Dummy Date 2023]</h4>
-                        <ul style="padding-left: 0;">
-                            <li style="list-style-type: none;">
-                                <b>
-                                    <a href="#" style="color: #2c3e50;"> Dummy Talk Title </a> Dummy Event
-                                </b>
-                                <br> Presenter: <u>Dummy Presenter</u> Dummy Affiliation
-                                <a class="btn btn-secondary btn-xs" data-toggle="collapse" href="#dummy1bio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
-                                    Speaker Bio
-                                </a>
-                                <div class="collapse" id="dummy1bio">
-                                    <div class="card card-body" style="margin-top: 10px;">
-                                        <u>Dummy Presenter</u> is a researcher at the prestigious Dummy University where they are making groundbreaking discoveries in the field of dummy studies.
-                                    </div>
+    <div class="row">
+        <div class="col-12">
+            <div class="listing" style="clear:both;">
+                <div class="left" style="margin-bottom: 20px;">
+                    <h3 style="text-align:center; font-style: italic;">Upcoming Talks</h3>
+                    <!-- Add a new talk -->
+                    <h4 style="margin-top: 20px;">[26 September 2023]</h4>
+                    <ul style="padding-left: 0;">
+                        <li style="list-style-type: none;">
+                            <b>
+                                <a href="#" style="color: #2c3e50;"> Introduction to Tensor Networks </a> 
+                            </b>
+                            <br> Presenter: Guillaume Rabusseau  (University of Montreal, Mila)
+                            <a class="btn btn-secondary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Speaker Bio
+                            </a>
+                            <div class="collapse" id="newTalkBio">
+                                <div class="card card-body" style="margin-top: 10px;">
+                                    <u> Presenter</u> is a researcher with expertise in new topics.
                                 </div>
-                            </li>
-                        </ul>
-                        <h4 style="margin-top: 20px;">[Dummy Date 2023]</h4>
-                        <ul style="padding-left: 0;">
-                            <li style="list-style-type: none;">
-                                <b>
-                                    <a href="#" style="color: #2c3e50;"> Dummy Talk Title </a> Dummy Event
-                                </b>
-                                <br> Presenter: <u>Dummy Presenter</u> Dummy Affiliation
-                                <a class="btn btn-secondary btn-xs" data-toggle="collapse" href="#dummy2bio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
-                                    Speaker Bio
-                                </a>
-                                <div class="collapse" id="dummy2bio">
-                                    <div class="card card-body" style="margin-top: 10px;">
-                                        <u>Dummy Presenter</u> has worked in the dummy industry for many years, gaining rich experiences in various dummy technologies and innovations.
-                                    </div>
+                            </div>
+                            <br>
+                            <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="badge badge-success" style="margin-top: 10px;"> Recording Link</a>
+                            <a href="https://arxiv.org" class="badge badge-warning" style="margin-top: 10px;"> Paper Link</a>
+                            <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Abstract
+                            </a>
+                            <div class="collapse" id="newTalkAbstract">
+                                <div class="card card-body" style="margin-top: 10px;">
+                                    This is an abstract for the new talk.
                                 </div>
-                                <br>
-                                <a href="#" class="badge badge-success" style="margin-top: 10px;">Dummy Recording Link</a>
-                                <a href="#" class="badge badge-warning" style="margin-top: 10px;">Dummy Paper Link</a>
-                                <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#dummy2abstract" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
-                                    Abstract
-                                </a>
-                                <div class="collapse" id="dummy2abstract">
-                                    <div class="card card-body" style="margin-top: 10px;">
-                                        This is a dummy abstract for the dummy talk scheduled to happen at the dummy event. It covers a range of dummy topics that are highly relevant in the current dummy landscape.
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
+                            </div>
+                        </li>
+                    </ul>
+                    <!-- Add more talks here if needed -->
                 </div>
             </div>
-            <div class="col-sm-2"></div>
         </div>
     </div>
 </section>
@@ -969,66 +950,14 @@
     
     
       
-      <a href="/rg/author/farzaneh-heidari/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/rg/author/farzaneh-heidari/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
+      <a href="/rg/author/farzaneh-heidari/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/rg/author/farzaneh-heidari/avatar_hu7fba9da1679ce4a56c592454604cb9c1_94192_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
       <h2><a href="/rg/author/farzaneh-heidari/">Farzaneh Heidari</a></h2>
       
       
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
       
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:test@example.org" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/gcushen" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-</ul>
-
       
     </div>
   </div>
@@ -1047,66 +976,14 @@
     
     
       
-      <a href="/rg/author/michael-rizvi-martel/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/rg/author/michael-rizvi-martel/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
+      <a href="/rg/author/michael-rizvi-martel/"><img width="270" height="270" loading="lazy" class="avatar avatar-circle" src="/rg/author/michael-rizvi-martel/avatar_hu2cab89305254775c75734c9d86736ddb_545100_270x270_fill_lanczos_center_3.png" alt="Avatar"></a>
     
 
     <div class="portrait-title">
       <h2><a href="/rg/author/michael-rizvi-martel/">Michael Rizvi-Martel</a></h2>
       
       
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
       
-    
-    
-    
-    
-    
-    <li>
-      <a href="mailto:test@example.org" >
-        <i class="fas fa-envelope"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">
-        <i class="fab fa-twitter"></i>
-      </a>
-    </li>
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="https://github.com/gcushen" target="_blank" rel="noopener">
-        <i class="fab fa-github"></i>
-      </a>
-    </li>
-  
-</ul>
-
       
     </div>
   </div>
