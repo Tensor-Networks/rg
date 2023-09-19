@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'Tensor Network RG' # Website name
+title: 'Tensor Network Reading Group' # Website name
 baseURL: "http://tensor-networks.github.io/rg/"
 
 ############################
