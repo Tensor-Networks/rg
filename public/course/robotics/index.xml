@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Second Talks | Tensor Network Reading Group</title>
+    <title>Tensor Network Reading Group</title>
     <link>http://tensor-networks.github.io/course/robotics/</link>
       <atom:link href="http://tensor-networks.github.io/course/robotics/index.xml" rel="self" type="application/rss+xml" />
-    <description>Second Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <description>Tensor Network Reading Group</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>http://tensor-networks.github.io/course/robotics/featured.jpg</url>
-      <title>Second Talks</title>
+      <title>Tensor Network Reading Group</title>
       <link>http://tensor-networks.github.io/course/robotics/</link>
     </image>
     

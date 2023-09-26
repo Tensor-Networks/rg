@@ -4,27 +4,13 @@
   
   
   <url>
-    <loc>http://tensor-networks.github.io/course/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://tensor-networks.github.io/course/data-science/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://tensor-networks.github.io/tag/previous/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://tensor-networks.github.io/course/robotics/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://tensor-networks.github.io/tags/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://tensor-networks.github.io/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://tensor-networks.github.io/tag/this-week/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://tensor-networks.github.io/post/20-12-02-icml-best-paper/</loc><lastmod>2020-12-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://tensor-networks.github.io/post/</loc><lastmod>2020-12-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>http://tensor-networks.github.io/post/20-12-01-wowchemy-prize/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>http://tensor-networks.github.io/admin/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://tensor-networks.github.io/contact/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://tensor-networks.github.io/course/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://tensor-networks.github.io/course/data-science/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://tensor-networks.github.io/course/data-science/python/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -32,11 +18,19 @@
   <url>
     <loc>http://tensor-networks.github.io/course/data-science/visualization/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc>http://tensor-networks.github.io/course/robotics/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>http://tensor-networks.github.io/course/robotics/python/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://tensor-networks.github.io/course/robotics/stats/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://tensor-networks.github.io/course/robotics/visualization/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://tensor-networks.github.io/post/20-12-01-wowchemy-prize/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://tensor-networks.github.io/post/20-12-02-icml-best-paper/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://tensor-networks.github.io/post/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://tensor-networks.github.io/authors/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -46,4 +40,6 @@
   <url>
     <loc>http://tensor-networks.github.io/author/michael-rizvi-martel/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://tensor-networks.github.io/tag/preface/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>http://tensor-networks.github.io/tags/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>http://tensor-networks.github.io/</loc><changefreq>weekly</changefreq></url></urlset>

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Inrto to TN
 linkTitle: Introduction to Tensor Network
 summary: An inrto to TN
@@ -8,7 +8,7 @@ tags:
   - This week
 ---
 ## What you will learn
-- a summary
+- a summary -->
 <!-- {{< figure src="featured.jpg" >}}
 
 {{< toc hide_on="xl" >}}

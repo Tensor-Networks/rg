@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Second Talks
 linkTitle: Second Talk
 summary: TN in ML
@@ -12,9 +12,9 @@ tags:
 
 <!-- {{< toc hide_on="xl" >}} -->
 
-## What you will learn
+<!-- ## What you will learn
 
-- a summary of the talk
+- a summary of the talk -->
 
 <!-- ## Program overview
 
@@ -27,4 +27,4 @@ tags:
 
 
 ## FAQs -->
-
+ -->
