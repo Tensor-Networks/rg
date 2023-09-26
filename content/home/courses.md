@@ -36,7 +36,7 @@ weight: 30
                 <div class="left" style="margin-bottom: 10px;">
                     <h3 style="text-align:center; font-style: italic;"> Talks</h3>
                     <!-- Add a new talk -->
-                    <h4 style="margin-top: 20px;">[ 2023]</h4>
+                    <h4 style="margin-top: 20px;">Oct 3, 2023</h4>
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
                             <b>
