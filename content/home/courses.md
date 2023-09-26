@@ -42,7 +42,7 @@ weight: 30
                             <b>
                                 <a href="#" style="color: #2c3e50;"> Introduction to Tensor Networks </a> 
                             </b>
-                            <br> Presenter: Guillaume Rabusseau  (University of Montreal, Mila)
+                            <br> Presenter: Prof. Guillaume Rabusseau  (University of Montreal, Mila)
                             <a class="btn btn-secondary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
                                 Speaker Bio
                             </a>

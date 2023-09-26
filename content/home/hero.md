@@ -29,12 +29,6 @@ design:
 
 <!-- Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo. -->
 
+ Every Tuesday 11am to 12pm EST. <br><p style="font-size: 20px;">Join us by zoom  <a href="https://umontreal.zoom.us/j/83763780264?pwd=UlN1WVkrZWk3ZVJZZ3RRMkZ3RUdQdz09">here</a> <br>Sign up here to recieve email communication about the talks<br>Visit our youtube channel for the recordings<br>Join TeNRead slack channel to join the discussion</p>
 
-Every Tuesday 11am to 12pm EST.
-Join us by zoom
-Sign up here to recieve email communications
-
-Visit our youtube channel for the recordings
-
-Join TeNRead slack channel to join the discussion
 <!-- <a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a><script async defer src="https://buttons.github.io/buttons.js"></script> -->
