@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: http://tensor-networks.github.io/sitemap.xml
+Sitemap: http://tensor-networks.github.io/rg/sitemap.xml
