@@ -33,10 +33,10 @@ weight: 30
     <div class="row">
         <div class="col-12">
             <div class="listing" style="clear:both;">
-                <div class="left" style="margin-bottom: 20px;">
-                    <h3 style="text-align:center; font-style: italic;">Upcoming Talks</h3>
+                <div class="left" style="margin-bottom: 10px;">
+                    <h3 style="text-align:center; font-style: italic;"> Talks</h3>
                     <!-- Add a new talk -->
-                    <h4 style="margin-top: 20px;">[26 September 2023]</h4>
+                    <h4 style="margin-top: 20px;">[ 2023]</h4>
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
                             <b>
@@ -48,18 +48,18 @@ weight: 30
                             </a>
                             <div class="collapse" id="newTalkBio">
                                 <div class="card card-body" style="margin-top: 10px;">
-                                    <u> Presenter</u> is a researcher with expertise in new topics.
+                                    Guillaume Rabusseau is an assistant professor at Univeristé de Montréal since 2018 and holds a Canada CIFAR AI chair at the Mila research institute since 2019. Prior to joining Mila, he was an IVADO postdoctoral research fellow in the Reasoning and Learning Lab at McGill University, where he worked with Prakash Panangaden, Joelle Pineau and Doina Precup. He obtained his PhD in computer science in 2016 at Aix-Marseille University under the supervision of François Denis and Hachem Kadri. His research interests lie at the intersection of theoretical computer science and machine learning, and his work revolves around exploring inter-connections between tensors and machine learning to develop efficient learning methods for structured data relying on linear and multilinear algebra, and on the tensor network formalism.
                                 </div>
                             </div>
                             <br>
                             <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="badge badge-success" style="margin-top: 10px;"> Recording Link</a>
-                            <a href="https://arxiv.org" class="badge badge-warning" style="margin-top: 10px;"> Paper Link</a>
                             <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
                                 Abstract
                             </a>
                             <div class="collapse" id="newTalkAbstract">
                                 <div class="card card-body" style="margin-top: 10px;">
-                                    This is an abstract for the new talk.
+                                    In this talk, I will give a tutorial on tensor networks and briefly present some of their applications in Machine Learning.
+                                    Tensors are high order generalization of vectors and matrices. Similar to matrix factorization techniques, one of the goal of tensor decomposition techniques is to express a tensor as a product of small factors, thus reducing the number of parameters and potentially regularizing machine learning models. While linear algebra is ubiquitous and taught in most undergrad curriculum, tensor and multilinear algebra can be daunting. In this talk, I will try to give an easy and accessible introduction to tensor methods using the tensor network formalism. Tensor networks are an intuitive diagrammatic notation allowing one to easily reason about complex operations on high-order tensors.
                                 </div>
                             </div>
                         </li>
