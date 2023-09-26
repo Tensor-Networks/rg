@@ -29,8 +29,12 @@ design:
 
 <!-- Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo. -->
 
-This is the webpage of tensor network reading group at Mila. The topics of interest include tensor decompositions and tensor networks. 
 
-Every Tuesday 11am to 12pm EST a talk will be presented. See the schedule below for more details. 
+Every Tuesday 11am to 12pm EST.
+Join us by zoom
+Sign up here to recieve email communications
 
+Visit our youtube channel for the recordings
+
+Join TeNRead slack channel to join the discussion
 <!-- <a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a><script async defer src="https://buttons.github.io/buttons.js"></script> -->
