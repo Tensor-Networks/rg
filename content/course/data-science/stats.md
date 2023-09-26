@@ -1,4 +1,3 @@
-<!-- ---
 title: Statistics
 date: '2021-01-01'
 type: book
@@ -7,6 +6,7 @@ math: true
 tags:
   - Statistics
 ---
+<!-- ---
 
 Introduction to statistics for data science.
 
