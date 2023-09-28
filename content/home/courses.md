@@ -42,7 +42,7 @@ weight: 30
                             <b>
                                 <a href="#" style="color: #2c3e50;"> Title: Introduction to Tensor Networks </a> 
                             </b>
-                            <br> Presenter: Prof. Guillaume Rabusseau  (University of Montreal, Mila)
+                            <br> Presenter: Guillaume Rabusseau  (University of Montreal, Mila)
                             <br>
                             <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
                                 Speaker Bio
@@ -69,7 +69,38 @@ weight: 30
             </div>
         </div>
     </div>
+                    <!-- Add a new talk -->
+                    <h4 style="margin-top: 20px;">Oct 24, 2023</h4>
+                    <ul style="padding-left: 0;">
+                        <li style="list-style-type: none;">
+                            <b>
+                                <a href="#" style="color: #2c3e50;"> Title: Tensor network structure search (TN-SS) </a> 
+                            </b>
+                            <br> Presenter: Chao Li  (RIKEN-AIP)
+                            <br>
+                            <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Speaker Bio
+                            </a>
+                            <div class="collapse" id="newTalkBio">
+                                <div class="card card-body" style="margin-top: 10px;">
+                                </div>
+                            </div> -->
+                            <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Abstract
+                            </a>
+                            <div class="collapse" id="newTalkAbstract">
+                                <div class="card card-body" style="margin-top: 10px;">
+                                </div>
+                            </div> -->
+                            <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a>
+                            <a href="https://arxiv.org/abs/2304.12875" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Reading</a>
+                        </li>
+                    </ul>
+                    <!-- Add more talks here if needed -->
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
-
 
 ---
