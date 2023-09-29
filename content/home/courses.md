@@ -36,7 +36,7 @@ weight: 30
                 <div class="left" style="margin-bottom: 10px;">
                     <h3 style="text-align:center; font-style: italic;"> Talks</h3>
                     <!-- Add a new talk -->
-                    <h4 style="margin-top: 20px;">Oct 3, 2023</h4>
+                    <h4 style="margin-top: 20px;">Oct 17, 2023</h4>
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
                             <b>
@@ -97,6 +97,59 @@ weight: 30
                         </li>
                     </ul>
                     <!-- Add more talks here if needed -->
+                    <h4 style="margin-top: 20px;">Oct 31, 2023</h4>
+                    <ul style="padding-left: 0;">
+                        <li style="list-style-type: none;">
+                            <b>
+                                <a href="#" style="color: #2c3e50;"> Title: TNS and non-equilibrium dynamics </a> 
+                            </b>
+                            <br> Presenter: Mari Carmen Bañuls (Max Planck Institute of Quantum Optics)
+                            <br>
+                            <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Speaker Bio
+                            </a>
+                            <div class="collapse" id="newTalkBio">
+                                <div class="card card-body" style="margin-top: 10px;">
+                                </div>
+                            </div> -->
+                            <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Abstract
+                            </a>
+                            <div class="collapse" id="newTalkAbstract">
+                                <div class="card card-body" style="margin-top: 10px;">
+                                </div>
+                            </div> -->
+                            <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a>
+                            <a href="https://arxiv.org/pdf/2209.11788.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Reading</a>
+                        </li>
+                    </ul>
+                     <!-- Add more talks here if needed -->
+                    <h4 style="margin-top: 20px;">Oct 31, 2023</h4>
+                    <ul style="padding-left: 0;">
+                        <li style="list-style-type: none;">
+                            <b>
+                                <a href="#" style="color: #2c3e50;"> Title: MultiHU-TD: Multi-feature Hyperspectral Unmixing Based on Tensor Decomposition </a> 
+                            </b>
+                            <br> Presenter: Mohamad Jouni (Grenoble Institute of Technology)
+                            <br>
+                            <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Speaker Bio
+                            </a>
+                            <div class="collapse" id="newTalkBio">
+                                <div class="card card-body" style="margin-top: 10px;">
+                                </div>
+                            </div> -->
+                            <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Abstract
+                            </a>
+                            <div class="collapse" id="newTalkAbstract">
+                                <div class="card card-body" style="margin-top: 10px;">
+                                </div>
+                            </div> -->
+                            <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a>
+                            <a href="https://hal.science/hal-03480890/document" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Reading</a>
+                        </li>
+                    </ul>
                 </div>
             </div>
         </div>
