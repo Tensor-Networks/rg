@@ -120,7 +120,7 @@ weight: 30
                                 </div>
                             </div> -->
                             <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a>
-                            <a href="https://arxiv.org/pdf/2209.11788.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Reading</a>
+                            <a href="https://arxiv.org/abs/2209.11788" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Reading</a>
                         </li>
                     </ul>
                      <!-- Add more talks here if needed -->
