@@ -150,6 +150,32 @@ weight: 30
                             <a href="https://hal.science/hal-03480890/document" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Reading</a>
                         </li>
                     </ul>
+                    <h4 style="margin-top: 20px;">Nov 14, 2023</h4>
+                    <ul style="padding-left: 0;">
+                        <li style="list-style-type: none;">
+                            <b>
+                                <a href="#" style="color: #2c3e50;"> Title: What Makes Data Suitable for a Locally Connected Neural Network? A Necessary and Sufficient Condition Based on Quantum Entanglement </a> 
+                            </b>
+                            <br> Presenter: Yotam Alexander (Tel Aviv University)
+                            <br>
+                            <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Speaker Bio
+                            </a>
+                            <div class="collapse" id="newTalkBio">
+                                <div class="card card-body" style="margin-top: 10px;">
+                                </div>
+                            </div> -->
+                            <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Abstract
+                            </a>
+                            <div class="collapse" id="newTalkAbstract">
+                                <div class="card card-body" style="margin-top: 10px;">
+                                </div>
+                            </div> -->
+                            <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a>
+                            <a href="https://arxiv.org/abs/2303.11249" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Reading</a>
+                        </li>
+                    </ul>
                 </div>
             </div>
         </div>
