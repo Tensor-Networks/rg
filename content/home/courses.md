@@ -42,7 +42,7 @@ weight: 30
                             <b>
                                 <a href="#" style="color: #2c3e50;"> Title: Introduction to Tensor Networks </a> 
                             </b>
-                            <br> Presenter: Guillaume Rabusseau  (University of Montreal, Mila)
+                            <br> Presenter: Guillaume Rabusseau  
                             <br>
                             <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
                                 Speaker Bio
@@ -76,7 +76,7 @@ weight: 30
                             <b>
                                 <a href="#" style="color: #2c3e50;"> Title: Tensor network structure search (TN-SS) </a> 
                             </b>
-                            <br> Presenter: Chao Li  (RIKEN-AIP)
+                            <br> Presenter: Chao Li  
                             <br>
                             <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
                                 Speaker Bio
@@ -85,13 +85,14 @@ weight: 30
                                 <div class="card card-body" style="margin-top: 10px;">
                                 </div>
                             </div> -->
-                            <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
-                                Abstract
+                            <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract_0" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                               Abstract
                             </a>
-                            <div class="collapse" id="newTalkAbstract">
+                            <div class="collapse" id="newTalkAbstract_0">
                                 <div class="card card-body" style="margin-top: 10px;">
+                                 Tensor networks (TN) represent a formidable framework within machine learning. However, the selection of an effective TN model—a process known as Tensor Network Structure Search (TN-SS)—remains a computationally challenging endeavor. In my presentation, I will offer a succinct overview of our approach to this issue. I will concentrate on problem formulation and solution strategies from the standpoint of discrete optimization. Specifically, I will discuss three algorithms and the associated theoretical findings, which have been the subject of my research and were published in ICML conferences in 2020, 2022, and 2023.
                                 </div>
-                            </div> -->
+                            </div>
                             <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a>
                             <a href="https://arxiv.org/abs/2304.12875" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Reading</a>
                         </li>
@@ -103,7 +104,7 @@ weight: 30
                             <b>
                                 <a href="#" style="color: #2c3e50;"> Title: TNS and non-equilibrium dynamics </a> 
                             </b>
-                            <br> Presenter: Mari Carmen Bañuls (Max Planck Institute of Quantum Optics)
+                            <br> Presenter: Mari Carmen Bañuls 
                             <br>
                             <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
                                 Speaker Bio
@@ -130,7 +131,7 @@ weight: 30
                             <b>
                                 <a href="#" style="color: #2c3e50;"> Title: MultiHU-TD: Multi-feature Hyperspectral Unmixing Based on Tensor Decomposition </a> 
                             </b>
-                            <br> Presenter: Mohamad Jouni (Grenoble Institute of Technology)
+                            <br> Presenter: Mohamad Jouni 
                             <br>
                             <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
                                 Speaker Bio
@@ -156,7 +157,7 @@ weight: 30
                             <b>
                                 <a href="#" style="color: #2c3e50;"> Title: What Makes Data Suitable for a Locally Connected Neural Network? A Necessary and Sufficient Condition Based on Quantum Entanglement </a> 
                             </b>
-                            <br> Presenter: Yotam Alexander (Tel Aviv University)
+                            <br> Presenter: Yotam Alexander 
                             <br>
                             <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
                                 Speaker Bio
@@ -182,7 +183,7 @@ weight: 30
                             <b>
                                 <a href="#" style="color: #2c3e50;"> Title: High-dimensional density estimation with tensorizing flow </a> 
                             </b>
-                            <br> Presenter: Yinuo Ren (Stanford University)
+                            <br> Presenter: Yinuo Ren 
                             <br>
                             <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
                                 Speaker Bio
@@ -200,6 +201,32 @@ weight: 30
                             </div> -->
                             <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a>
                             <a href="https://arxiv.org/abs/2212.00759" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Reading</a>
+                        </li>
+                    </ul>
+                    <h4 style="margin-top: 20px;">Dec 4, 2023</h4>
+                    <ul style="padding-left: 0;">
+                        <li style="list-style-type: none;">
+                            <b>
+                                <a href="#" style="color: #2c3e50;"> Title: Enhancing Generative Models via Quantum Correlations </a> 
+                            </b>
+                            <br> Presenter: Eric R. Anschuetz 
+                            <br>
+                            <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Speaker Bio
+                            </a>
+                            <div class="collapse" id="newTalkBio">
+                                <div class="card card-body" style="margin-top: 10px;">
+                                </div>
+                            </div> -->
+                            <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Abstract
+                            </a>
+                            <div class="collapse" id="newTalkAbstract">
+                                <div class="card card-body" style="margin-top: 10px;">
+                                </div>
+                            </div> -->
+                            <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a>
+                            <a href="https://arxiv.org/abs/2101.08354" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Reading</a>
                         </li>
                     </ul>
                 </div>
