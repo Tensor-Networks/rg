@@ -40,7 +40,7 @@ weight: 30
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
                             <b>
-                                <a href="#" style="color: #2c3e50;"> Title: Introduction to Tensor Networks </a> 
+                                <a style="color: #2c3e50;"> Title: Introduction to Tensor Networks </a> 
                             </b>
                             <br> Presenter: Guillaume Rabusseau  
                             <br>
@@ -61,7 +61,7 @@ weight: 30
                                     Tensors are high order generalization of vectors and matrices. Similar to matrix factorization techniques, one of the goal of tensor decomposition techniques is to express a tensor as a product of small factors, thus reducing the number of parameters and potentially regularizing machine learning models. While linear algebra is ubiquitous and taught in most undergrad curriculum, tensor and multilinear algebra can be daunting. In this talk, I will try to give an easy and accessible introduction to tensor methods using the tensor network formalism. Tensor networks are an intuitive diagrammatic notation allowing one to easily reason about complex operations on high-order tensors.
                                 </div>
                             </div>
-                            <a href="https://github.com/Tensor-Networks/tensor-networks.github.io/blob/main/TNRG.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a>
+                            <a href="notes/TNRG.pdf" download="TNRG.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a>
                             <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a>
                         </li>
                     </ul>
@@ -75,7 +75,7 @@ weight: 30
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
                             <b>
-                                <a href="#" style="color: #2c3e50;"> Title: Tensor network structure search (TN-SS) </a> 
+                                <a style="color: #2c3e50;"> Title: Tensor network structure search (TN-SS) </a> 
                             </b>
                             <br> Presenter: Chao Li  
                             <br>
@@ -86,6 +86,8 @@ weight: 30
                                 <div class="card card-body" style="margin-top: 10px;">
                                 </div>
                             </div> -->
+                             <a href="https://arxiv.org/abs/2304.12875" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Reading
+                             </a>
                             <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract_0" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
                                Abstract
                             </a>
@@ -94,8 +96,8 @@ weight: 30
                                  Tensor networks (TN) represent a formidable framework within machine learning. However, the selection of an effective TN model—a process known as Tensor Network Structure Search (TN-SS)—remains a computationally challenging endeavor. In my presentation, I will offer a succinct overview of our approach to this issue. I will concentrate on problem formulation and solution strategies from the standpoint of discrete optimization. Specifically, I will discuss three algorithms and the associated theoretical findings, which have been the subject of my research and were published in ICML conferences in 2020, 2022, and 2023.
                                 </div>
                             </div>
-                            <!-- <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a> -->
-                            <a href="https://arxiv.org/abs/2304.12875" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Reading</a>
+                            <a href="notes/TNSSMILA.pdf" download="TNSSMILA.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a>
+                            <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a>
                         </li>
                     </ul>
                     <!-- Add more talks here if needed -->
@@ -103,7 +105,7 @@ weight: 30
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
                             <b>
-                                <a href="#" style="color: #2c3e50;"> Title: TNS and non-equilibrium dynamics </a> 
+                                <a style="color: #2c3e50;"> Title: TNS and non-equilibrium dynamics </a> 
                             </b>
                             <br> Presenter: Mari Carmen Bañuls 
                             <br>
@@ -132,7 +134,7 @@ In this talk I will present the basic ideas behind TNS algorithms, as well as th
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
                             <b>
-                                <a href="#" style="color: #2c3e50;"> Title: MultiHU-TD: Multi-feature Hyperspectral Unmixing Based on Tensor Decomposition </a> 
+                                <a style="color: #2c3e50;"> Title: MultiHU-TD: Multi-feature Hyperspectral Unmixing Based on Tensor Decomposition </a> 
                             </b>
                             <br> Presenter: Mohamad Jouni 
                             <br>
@@ -158,7 +160,7 @@ In this talk I will present the basic ideas behind TNS algorithms, as well as th
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
                             <b>
-                                <a href="#" style="color: #2c3e50;"> Title: What Makes Data Suitable for a Locally Connected Neural Network? A Necessary and Sufficient Condition Based on Quantum Entanglement </a> 
+                                <a style="color: #2c3e50;"> Title: What Makes Data Suitable for a Locally Connected Neural Network? A Necessary and Sufficient Condition Based on Quantum Entanglement </a> 
                             </b>
                             <br> Presenter: Yotam Alexander 
                             <br>
@@ -184,7 +186,7 @@ In this talk I will present the basic ideas behind TNS algorithms, as well as th
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
                             <b>
-                                <a href="#" style="color: #2c3e50;"> Title: High-dimensional density estimation with tensorizing flow </a> 
+                                <a style="color: #2c3e50;"> Title: High-dimensional density estimation with tensorizing flow </a> 
                             </b>
                             <br> Presenter: Yinuo Ren 
                             <br>
@@ -210,7 +212,7 @@ In this talk I will present the basic ideas behind TNS algorithms, as well as th
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
                             <b>
-                                <a href="#" style="color: #2c3e50;"> Title: Enhancing Generative Models via Quantum Correlations </a> 
+                                <a style="color: #2c3e50;"> Title: Enhancing Generative Models via Quantum Correlations </a> 
                             </b>
                             <br> Presenter: Eric R. Anschuetz 
                             <br>
@@ -241,3 +243,4 @@ Eric is a Sherman Fairchild postdoctoral fellow at Caltech, having recently fini
 </section>
 
 ---
+
