@@ -179,7 +179,7 @@ In this talk I will present the basic ideas behind TNS algorithms, as well as th
                                 <div class="card card-body" style="margin-top: 10px;">
                                 </div>
                             </div> -->
-                            <!-- <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a> -->
+                            <a href="https://youtu.be/T7uY9cNu5Kw" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a>
                             <a href="https://arxiv.org/abs/2303.11249" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Reading</a>
                         </li>
                     </ul>
