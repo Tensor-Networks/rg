@@ -206,7 +206,8 @@ In this talk I will present the basic ideas behind TNS algorithms, as well as th
                                 <div class="card card-body" style="margin-top: 10px;">
                                 </div>
                             </div> -->
-                            <!-- <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a> -->
+                            <a href="notes/slides.pdf" download="slides.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a>
+                            <a href="https://youtu.be/qVW1_DnQXKI" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a>
                             <a href="https://arxiv.org/abs/2212.00759" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Reading</a>
                         </li>
                     </ul>
