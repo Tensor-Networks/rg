@@ -239,7 +239,7 @@ In this talk I will present the basic ideas behind TNS algorithms, as well as th
                                 model for active inference planning (a theory in neuroscience that models human learning and cognition), hence using tensor networks to do human-inspired machine learning. And also another project where a technique developed for deep learning, automatic differentiation, is applied to a standard tensor network problem: PEPS optimization. The latter focusses on three major issues in applying AD in this new context, and presents efficient solutions.  One of these has also implications for AD users who aren't using it for PEPS.
                                 </div>
                             </div> 
-                            <!-- <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a> -->
+                            <a href="https://youtu.be/EaqdAWCO5p8" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a>
                             <a href="https://arxiv.org/abs/2208.08713" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Reading 1</a>
                             <a href="https://arxiv.org/abs/2311.11894" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Reading 2</a>
                         </li>
