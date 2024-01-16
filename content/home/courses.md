@@ -27,14 +27,166 @@ weight: 30
 #   view: masonry
 #   flip_alt_rows: false
 ---
-
-  ---
+---
 <section id="courses" class="some-section">
     <div class="row">
         <div class="col-12">
             <div class="listing" style="clear:both;">
                 <div class="left" style="margin-bottom: 10px;">
-                    <h3 style="text-align:center; font-style: italic;"> Talks</h3>
+                    <h3 style="text-align:center; font-style: italic;"> Upcoming Talks, Winter 2024</h3>
+                    <!-- Add a new talk -->
+                    <h4 style="margin-top: 20px;">Jan 23, 2024</h4>
+                    <ul style="padding-left: 0;">
+                        <li style="list-style-type: none;">
+                            <b>
+                                <a style="color: #2c3e50;"> Title: When randomized algorithms meet tensor decompositions </a> 
+                            </b>
+                            <br> Presenter: Beheshteh Toloui Rakhshan  
+                            <br>
+                            <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Speaker Bio
+                            </a> -->
+                            <!-- <div class="collapse" id="newTalkBio">
+                                <div class="card card-body" style="margin-top: 10px;">
+                                    Guillaume Rabusseau is an assistant professor at Univeristé de Montréal since 2018 and holds a Canada CIFAR AI chair at the Mila research institute since 2019. Prior to joining Mila, he was an IVADO postdoctoral research fellow in the Reasoning and Learning Lab at McGill University, where he worked with Prakash Panangaden, Joelle Pineau and Doina Precup. He obtained his PhD in computer science in 2016 at Aix-Marseille University under the supervision of François Denis and Hachem Kadri. His research interests lie at the intersection of theoretical computer science and machine learning, and his work revolves around exploring inter-connections between tensors and machine learning to develop efficient learning methods for structured data relying on linear and multilinear algebra, and on the tensor network formalism.
+                                </div>
+                            </div> -->
+                            <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Abstract
+                            </a>
+                            <div class="collapse" id="newTalkAbstract">
+                                <div class="card card-body" style="margin-top: 10px;">    
+                                Tensor decomposition methods have recently found numerous applications in machine learning. Their ability to perform operations efficiently on very high-dimensional tensor data makes them ubiquitous in data science and machine learning. Due to the curse of dimensionality of tensors, designing efficient algorithms for very high dimensional tensor data is challenging. On the other hand, finding a decomposition of high-dimensional tensors is crucial. Many tensor decompositions correspond to either difficult non-convex optimization problems or the running time is exponential in the order of a tensor. To address these issues, several recent works have developed randomized-based algorithms. These issues have led to the search for alternatives based on randomization and sampling techniques. In this talk, we will be giving a tutorial on randomized algorithms and their application in tensor network methods.
+                                </div>
+                            <!-- </div>
+                            <a href="notes/TNRG.pdf" download="TNRG.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a>
+                            <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a> -->
+                        </li>
+                    </ul>
+                    <!-- Add more talks here if needed -->
+                    <h4 style="margin-top: 20px;">Jan 30, 2024</h4>
+                    <ul style="padding-left: 0;">
+                        <li style="list-style-type: none;">
+                            <b>
+                                <a style="color: #2c3e50;"> Title: Sampling-Based Decomposition Algorithms for Arbitrary Tensor Networks </a> 
+                            </b>
+                            <br> Presenter: Osman Malik  
+                            <br>
+                            <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Speaker Bio
+                            </a> -->
+                            <!-- <div class="collapse" id="newTalkBio">
+                                <div class="card card-body" style="margin-top: 10px;">
+                                    Guillaume Rabusseau is an assistant professor at Univeristé de Montréal since 2018 and holds a Canada CIFAR AI chair at the Mila research institute since 2019. Prior to joining Mila, he was an IVADO postdoctoral research fellow in the Reasoning and Learning Lab at McGill University, where he worked with Prakash Panangaden, Joelle Pineau and Doina Precup. He obtained his PhD in computer science in 2016 at Aix-Marseille University under the supervision of François Denis and Hachem Kadri. His research interests lie at the intersection of theoretical computer science and machine learning, and his work revolves around exploring inter-connections between tensors and machine learning to develop efficient learning methods for structured data relying on linear and multilinear algebra, and on the tensor network formalism.
+                                </div>
+                            </div> -->
+                            <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract_012024" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Abstract
+                            </a>
+                            <div class="collapse" id="newTalkAbstract_012024">
+                                <div class="card card-body" style="margin-top: 10px;">    
+                               We show how to develop sampling-based alternating least squares (ALS) algorithms for
+                                decomposition of tensors into any tensor network (TN) format. Provided the TN format
+                                satisfies certain mild assumptions, resulting algorithms will have input sublinear per-iteration
+                                cost. Unlike most previous works on sampling-based ALS methods for tensor decomposition,
+                                the sampling in our framework is done according to the exact leverage score distribution of the
+                                design matrices in the ALS subproblems. We implement and test two tensor decomposition
+                                algorithms that use our sampling framework in a feature extraction experiment where we
+                                compare them against a number of other decomposition algorithms.
+                                </div>
+                            <!-- </div>
+                            <a href="notes/TNRG.pdf" download="TNRG.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a>
+                            <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a> -->
+                        </li>
+                    </ul>
+                     <!-- Add more talks here if needed -->
+                    <h4 style="margin-top: 20px;">Feb 6, 2024</h4>
+                    <ul style="padding-left: 0;">
+                        <li style="list-style-type: none;">
+                            <b>
+                                <a style="color: #2c3e50;"> Title: Fast Exact Leverage Score Sampling from Khatri-Rao Products with Applications to Tensor Decomposition </a> 
+                            </b>
+                            <br> Presenter: Vivek Bharadwaj  
+                            <br>
+                            <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Speaker Bio
+                            </a> -->
+                            <!-- <div class="collapse" id="newTalkBio">
+                                <div class="card card-body" style="margin-top: 10px;">
+                                    Guillaume Rabusseau is an assistant professor at Univeristé de Montréal since 2018 and holds a Canada CIFAR AI chair at the Mila research institute since 2019. Prior to joining Mila, he was an IVADO postdoctoral research fellow in the Reasoning and Learning Lab at McGill University, where he worked with Prakash Panangaden, Joelle Pineau and Doina Precup. He obtained his PhD in computer science in 2016 at Aix-Marseille University under the supervision of François Denis and Hachem Kadri. His research interests lie at the intersection of theoretical computer science and machine learning, and his work revolves around exploring inter-connections between tensors and machine learning to develop efficient learning methods for structured data relying on linear and multilinear algebra, and on the tensor network formalism.
+                                </div>
+                            </div> -->
+                            <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract_022024" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Abstract
+                            </a>
+                            <div class="collapse" id="newTalkAbstract_022024">
+                                <div class="card card-body" style="margin-top: 10px;">    
+                              We present a data structure to randomly sample rows from the Khatri-Rao product
+                                of several matrices according to the exact distribution of its leverage scores. Our
+                                proposed sampler draws each row in time logarithmic in the height of the KhatriRao product and quadratic in its column count, with persistent space overhead
+                                at most the size of the input matrices. As a result, it tractably draws samples
+                                even when the matrices forming the Khatri-Rao product have tens of millions
+                                of rows each. When used to sketch the linear least squares problems arising in
+                                CANDECOMP / PARAFAC tensor decomposition, our method achieves lower
+                                asymptotic complexity per solve than recent state-of-the-art methods. Experiments
+                                on billion-scale sparse tensors validate our claims, with our algorithm achieving
+                                higher accuracy than competing methods as the decomposition rank grows.
+                                </div>
+                            <!-- </div>
+                            <a href="notes/TNRG.pdf" download="TNRG.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a>
+                            <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a> -->
+                        </li>
+                    </ul>
+                                         <!-- Add more talks here if needed -->
+                    <h4 style="margin-top: 20px;">Feb 20, 2024</h4>
+                    <ul style="padding-left: 0;">
+                        <li style="list-style-type: none;">
+                            <b>
+                                <a style="color: #2c3e50;"> Title: Cost-efficient Gaussian tensor network embeddings for tensor-structured inputs </a> 
+                            </b>
+                            <br> Presenter: Linjian Ma  
+                            <br>
+                            <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Speaker Bio
+                            </a> -->
+                            <!-- <div class="collapse" id="newTalkBio">
+                                <div class="card card-body" style="margin-top: 10px;">
+                                    Guillaume Rabusseau is an assistant professor at Univeristé de Montréal since 2018 and holds a Canada CIFAR AI chair at the Mila research institute since 2019. Prior to joining Mila, he was an IVADO postdoctoral research fellow in the Reasoning and Learning Lab at McGill University, where he worked with Prakash Panangaden, Joelle Pineau and Doina Precup. He obtained his PhD in computer science in 2016 at Aix-Marseille University under the supervision of François Denis and Hachem Kadri. His research interests lie at the intersection of theoretical computer science and machine learning, and his work revolves around exploring inter-connections between tensors and machine learning to develop efficient learning methods for structured data relying on linear and multilinear algebra, and on the tensor network formalism.
+                                </div>
+                            </div> -->
+                            <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract_032024" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Abstract
+                            </a>
+                            <div class="collapse" id="newTalkAbstract_032024">
+                                <div class="card card-body" style="margin-top: 10px;">    
+                              This work discusses tensor network embeddings, which are random matrices (S)
+                                with tensor network structure. These embeddings have been used to perform dimensionality reduction of tensor network structured inputs x and accelerate applications such as tensor decomposition and kernel regression. Existing works have
+                                designed embeddings for inputs x with specific structures, such as the Kronecker
+                                product or Khatri-Rao product, such that the computational cost for calculating Sx
+                                is efficient. We provide a systematic way to design tensor network embeddings
+                                consisting of Gaussian random tensors, such that for inputs with more general
+                                tensor network structures, both the sketch size (row size of S) and the sketching
+                                computational cost are low.
+                                </div>
+                            <!-- </div>
+                            <a href="notes/TNRG.pdf" download="TNRG.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a>
+                            <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a> -->
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+---
+
+<section id="courses" class="some-section">
+    <div class="row">
+        <div class="col-12">
+            <div class="listing" style="clear:both;">
+                <div class="left" style="margin-bottom: 10px;">
+                    <h3 style="text-align:center; font-style: italic;"> Past Talks, Fall 2023</h3>
                     <!-- Add a new talk -->
                     <h4 style="margin-top: 20px;">Oct 17, 2023</h4>
                     <ul style="padding-left: 0;">
