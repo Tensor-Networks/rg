@@ -41,7 +41,7 @@ weight: 30
                             <b>
                                 <a style="color: #2c3e50;"> Title: When randomized algorithms meet tensor decompositions </a> 
                             </b>
-                            <br> Presenter: Beheshteh Toloui Rakhshan  
+                            <br> Presenter: Beheshteh T. Rakhshan 
                             <br>
                             <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
                                 Speaker Bio
