@@ -15,11 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: RG
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo learning theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Tensor Network Reading Group'
+    twitter: 'TN'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
