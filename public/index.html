@@ -806,43 +806,6 @@
                     <h3 style="text-align:center; font-style: italic;"> Upcoming Talks, Winter 2024</h3>
                     <!-- Add a new talk -->
                      <!-- Add more talks here if needed -->
-                    <h4 style="margin-top: 20px;">Feb 6, 2024</h4>
-                    <ul style="padding-left: 0;">
-                        <li style="list-style-type: none;">
-                            <b>
-                                <a style="color: #2c3e50;"> Title: Fast Exact Leverage Score Sampling from Khatri-Rao Products with Applications to Tensor Decomposition </a> 
-                            </b>
-                            <br> Presenter: Vivek Bharadwaj  
-                            <br>
-                            <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
-                                Speaker Bio
-                            </a> -->
-                            <!-- <div class="collapse" id="newTalkBio">
-                                <div class="card card-body" style="margin-top: 10px;">
-                                    Guillaume Rabusseau is an assistant professor at Univeristé de Montréal since 2018 and holds a Canada CIFAR AI chair at the Mila research institute since 2019. Prior to joining Mila, he was an IVADO postdoctoral research fellow in the Reasoning and Learning Lab at McGill University, where he worked with Prakash Panangaden, Joelle Pineau and Doina Precup. He obtained his PhD in computer science in 2016 at Aix-Marseille University under the supervision of François Denis and Hachem Kadri. His research interests lie at the intersection of theoretical computer science and machine learning, and his work revolves around exploring inter-connections between tensors and machine learning to develop efficient learning methods for structured data relying on linear and multilinear algebra, and on the tensor network formalism.
-                                </div>
-                            </div> -->
-                            <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract_022024" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
-                                Abstract
-                            </a>
-                            <div class="collapse" id="newTalkAbstract_022024">
-                                <div class="card card-body" style="margin-top: 10px;">    
-                              We present a data structure to randomly sample rows from the Khatri-Rao product
-                                of several matrices according to the exact distribution of its leverage scores. Our
-                                proposed sampler draws each row in time logarithmic in the height of the KhatriRao product and quadratic in its column count, with persistent space overhead
-                                at most the size of the input matrices. As a result, it tractably draws samples
-                                even when the matrices forming the Khatri-Rao product have tens of millions
-                                of rows each. When used to sketch the linear least squares problems arising in
-                                CANDECOMP / PARAFAC tensor decomposition, our method achieves lower
-                                asymptotic complexity per solve than recent state-of-the-art methods. Experiments
-                                on billion-scale sparse tensors validate our claims, with our algorithm achieving
-                                higher accuracy than competing methods as the decomposition rank grows.
-                                </div>
-                            <!-- </div>
-                            <a href="notes/TNRG.pdf" download="TNRG.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a>
-                            <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a> -->
-                        </li>
-                    </ul>
                     <h4 style="margin-top: 20px;">Feb 13, 2024</h4>
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
@@ -919,7 +882,44 @@
             <div class="listing" style="clear:both;">
                 <div class="left" style="margin-bottom: 10px;">
                     <h3 style="text-align:center; font-style: italic;"> Past Talks, Winter 2024</h3>
-<!-- Add more talks here if needed -->
+                    <!-- Add more talks here if needed -->
+                    <h4 style="margin-top: 20px;">Feb 6, 2024</h4>
+                    <ul style="padding-left: 0;">
+                        <li style="list-style-type: none;">
+                            <b>
+                                <a style="color: #2c3e50;"> Title: Fast Exact Leverage Score Sampling from Khatri-Rao Products with Applications to Tensor Decomposition </a> 
+                            </b>
+                            <br> Presenter: Vivek Bharadwaj  
+                            <br>
+                            <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio_feb6" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Speaker Bio
+                            </a> 
+                            <div class="collapse" id="newTalkBio_feb6">
+                                <div class="card card-body" style="margin-top: 10px;">
+                                    Vivek Bharadwaj is a PhD student at the University of California, Berkeley advised by James Demmel and Aydın Buluç. His interests include high-performance computing, randomized algorithms, and tensor decompositions at scale. He is affiliated with the BeBOP and PASSION groups at the university and its affiliate, Lawrence Berkeley National Laboratory.
+                                </div>
+                            </div>
+                            <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract_022024" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Abstract
+                            </a>
+                            <div class="collapse" id="newTalkAbstract_022024">
+                                <div class="card card-body" style="margin-top: 10px;">    
+                              We present a data structure to randomly sample rows from the Khatri-Rao product
+                                of several matrices according to the exact distribution of its leverage scores. Our
+                                proposed sampler draws each row in time logarithmic in the height of the KhatriRao product and quadratic in its column count, with persistent space overhead
+                                at most the size of the input matrices. As a result, it tractably draws samples
+                                even when the matrices forming the Khatri-Rao product have tens of millions
+                                of rows each. When used to sketch the linear least squares problems arising in
+                                CANDECOMP / PARAFAC tensor decomposition, our method achieves lower
+                                asymptotic complexity per solve than recent state-of-the-art methods. Experiments
+                                on billion-scale sparse tensors validate our claims, with our algorithm achieving
+                                higher accuracy than competing methods as the decomposition rank grows.
+                                </div>
+                            </div> 
+                            <a href="notes/MILA_Tensor_Network_Reading_Group.pdf" download="MILA_Tensor_Network_Reading_Group.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a>
+                            <a href="https://youtu.be/u4X5DBRbrjc" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a> 
+                        </li>
+                    </ul>
                     <h4 style="margin-top: 20px;">Jan 30, 2024</h4>
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
@@ -928,14 +928,14 @@
                             </b>
                             <br> Presenter: Osman Malik  
                             <br>
-                            <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                            <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio_jan30" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
                                 Speaker Bio
-                            </a> -->
-                            <!-- <div class="collapse" id="newTalkBio">
+                            </a> 
+                            <div class="collapse" id="newTalkBio_jan30">
                                 <div class="card card-body" style="margin-top: 10px;">
-                                    Guillaume Rabusseau is an assistant professor at Univeristé de Montréal since 2018 and holds a Canada CIFAR AI chair at the Mila research institute since 2019. Prior to joining Mila, he was an IVADO postdoctoral research fellow in the Reasoning and Learning Lab at McGill University, where he worked with Prakash Panangaden, Joelle Pineau and Doina Precup. He obtained his PhD in computer science in 2016 at Aix-Marseille University under the supervision of François Denis and Hachem Kadri. His research interests lie at the intersection of theoretical computer science and machine learning, and his work revolves around exploring inter-connections between tensors and machine learning to develop efficient learning methods for structured data relying on linear and multilinear algebra, and on the tensor network formalism.
+                                    Osman is the 2021 Alvarez Postdoctoral Fellow at Lawrence Berkeley National Laboratory where he is a member of the Scalable Solvers Group. He received his PhD in Applied Mathematics from University of Colorado Boulder where he was advised by Stephen Becker. His research is evolving around randomized algorithms, tensor networks methods, optimization and quantum computing.
                                 </div>
-                            </div> -->
+                            </div>
                             <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract_012024" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
                                 Abstract
                             </a>
