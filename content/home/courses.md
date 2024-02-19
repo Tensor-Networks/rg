@@ -271,7 +271,7 @@ weight: 30
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
                             <b>
-                                <a style="color: #2c3e50;"> Title: Equivariant Polynomials for Graph Neural Networks </a> 
+                                <a style="color: #2c3e50;"> Title: Dynamic Tensor Decomposition via Neural Diffusion-Reaction Processes </a> 
                             </b>
                             <br> Presenter: Shikai Fang 
                             <br>
