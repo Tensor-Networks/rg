@@ -36,37 +36,6 @@ weight: 30
                     <h3 style="text-align:center; font-style: italic;"> Upcoming Talks, Winter 2024</h3>
                     <!-- Add a new talk -->
                      <!-- Add more talks here if needed -->
-                                         <!-- Add more talks here if needed -->
-                    <h4 style="margin-top: 20px;">Feb 20, 2024</h4>
-                    <ul style="padding-left: 0;">
-                        <li style="list-style-type: none;">
-                            <b>
-                                <a style="color: #2c3e50;"> Title: Cost-efficient Gaussian tensor network embeddings for tensor-structured inputs </a> 
-                            </b>
-                            <br> Presenter: Linjian Ma  
-                            <br>
-                            <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
-                                Speaker Bio
-                            </a> -->
-                            <!-- <div class="collapse" id="newTalkBio">
-                                <div class="card card-body" style="margin-top: 10px;">
-                                    Guillaume Rabusseau is an assistant professor at Univeristé de Montréal since 2018 and holds a Canada CIFAR AI chair at the Mila research institute since 2019. Prior to joining Mila, he was an IVADO postdoctoral research fellow in the Reasoning and Learning Lab at McGill University, where he worked with Prakash Panangaden, Joelle Pineau and Doina Precup. He obtained his PhD in computer science in 2016 at Aix-Marseille University under the supervision of François Denis and Hachem Kadri. His research interests lie at the intersection of theoretical computer science and machine learning, and his work revolves around exploring inter-connections between tensors and machine learning to develop efficient learning methods for structured data relying on linear and multilinear algebra, and on the tensor network formalism.
-                                </div>
-                            </div> -->
-                            <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract_feb20" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
-                                Abstract
-                            </a>
-                            <div class="collapse" id="newTalkAbstract_feb20">
-                                <div class="card card-body" style="margin-top: 10px;">    
-                              This work discusses tensor network embeddings, which are random matrices (S)
-                                with tensor network structure. These embeddings have been used to perform dimensionality reduction of tensor network structured inputs x and accelerate applications such as tensor decomposition and kernel regression. Existing works have designed embeddings for inputs x with specific structures, such as the Kronecker product or Khatri-Rao product, such that the computational cost for calculating Sx is efficient. We provide a systematic way to design tensor network embeddings consisting of Gaussian random tensors, such that for inputs with more general tensor network structures, both the sketch size (row size of S) and the sketching
-                                computational cost are low.
-                                </div>
-                            <!-- </div>
-                            <a href="notes/TNRG.pdf" download="TNRG.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a>
-                            <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a> -->
-                        </li>
-                    </ul>
                     <h4 style="margin-top: 20px;">Feb 27, 2024</h4>
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
@@ -323,6 +292,35 @@ weight: 30
             <div class="listing" style="clear:both;">
                 <div class="left" style="margin-bottom: 10px;">
                     <h3 style="text-align:center; font-style: italic;"> Past Talks, Winter 2024</h3>
+                    <!-- Add more talks here if needed -->
+                    <h4 style="margin-top: 20px;">Feb 20, 2024</h4>
+                    <ul style="padding-left: 0;">
+                        <li style="list-style-type: none;">
+                            <b>
+                                <a style="color: #2c3e50;"> Title: Cost-efficient Gaussian tensor network embeddings for tensor-structured inputs </a> 
+                            </b>
+                            <br> Presenter: Linjian Ma  
+                            <br>
+                            <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio_linjan" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Speaker Bio
+                            </a>
+                            <div class="collapse" id="newTalkBio_linjan">
+                                <div class="card card-body" style="margin-top: 10px;">
+                                    Linjian Ma is currently a research scientist at Meta Platforms. Before this role, he pursued his PhD in Computer Science at University of Illinois Urbana-Champaign, advised by Edgar Solomonik. His research interests are numerical algorithms and high-performance computing. His PhD thesis focused on developing efficient systems and numerical algorithms for tensor computations with applications in data analytics and quantum simulation.
+                                </div>
+                            </div>
+                            <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract_feb20" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Abstract
+                            </a>
+                            <div class="collapse" id="newTalkAbstract_feb20">
+                                <div class="card card-body" style="margin-top: 10px;">    
+                               We propose novel sketching algorithms for both tensor decompositions and tensor networks. Sketching involves employing random matrices, also known as embeddings, to project data onto low-dimensional spaces, thereby reducing the computational cost of subsequent operations. In the context of data with a tensor network structure, we present efficient algorithms that utilize tensor network-structured embeddings to sketch the data. Moreover, we provide theoretical bounds on the accuracy of sketching achieved through these algorithms. The proposed sketching techniques are used to accelerate various problems involving tensor networks, including CP and Tucker tensor decompositions and tensor train rounding.
+                                </div>
+                            </div>
+                            <!-- <a href="notes/TNRG.pdf" download="TNRG.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a> -->
+                            <a href="https://youtu.be/YkfSZ26Opzw" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a>
+                        </li>
+                    </ul>
                     <!-- Add more talks here if needed -->
                     <h4 style="margin-top: 20px;">Feb 6, 2024</h4>
                     <ul style="padding-left: 0;">
