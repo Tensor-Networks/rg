@@ -153,7 +153,7 @@ weight: 30
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
                             <b>
-                                <a style="color: #2c3e50;"> Title: Cost-efficient Gaussian tensor network embeddings for tensor-structured inputs </a> 
+                                <a style="color: #2c3e50;"> Title: When randomized algorithms meet tensor decompositions </a> 
                             </b>
                             <br> Presenter: Beheshteh T. Rakhshan 
                             <br>
@@ -181,7 +181,7 @@ weight: 30
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
                             <b>
-                                <a style="color: #2c3e50;"> Title: Cost-efficient Gaussian tensor network embeddings for tensor-structured inputs </a> 
+                                <a style="color: #2c3e50;"> Title: Scalable symmetric Tucker tensor decomposition </a> 
                             </b>
                             <br> Presenter: Ruhui Jin 
                             <br>
@@ -198,10 +198,17 @@ weight: 30
                             </a>
                             <div class="collapse" id="newTalkAbstract_mar26">
                                 <div class="card card-body" style="margin-top: 10px;">    
-                                This work discusses tensor network embeddings, which are random matrices (S)
-                                with tensor network structure. These embeddings have been used to perform dimensionality reduction of tensor network structured inputs x and accelerate applications such as tensor decomposition and kernel regression. Existing works have designed embeddings for inputs x with specific structures, such as the Kronecker product or Khatri-Rao product, such that the computational cost for calculating Sx is efficient. 
-                                We provide a systematic way to design tensor network embeddings
-                                consisting of Gaussian random tensors, such that for inputs with more general tensor network structures, both the sketch size (row size of S) and the sketching computational cost are low.
+                               We study the best low-rank Tucker decomposition of symmetric tensors. The motivating application
+                                is decomposing higher-order multivariate moments. Moment tensors have special structure and are
+                                important to various data science problems. We advocate for projected gradient descent (PGD) method
+                                and higher-order eigenvalue decomposition (HOEVD) approximation as computation schemes. Most
+                                importantly, we develop scalable adaptations of the basic PGD and HOEVD methods to decompose
+                                sample moment tensors. With the help of implicit and streaming techniques, we evade the overhead cost
+                                of building and storing the moment tensor. Such reductions make computing the Tucker decomposition
+                                realizable for large data instances in high dimensions. Numerical experiments demonstrate the efficiency
+                                of the algorithms and the applicability of moment tensor decompositions to real-world datasets. Finally
+                                we study the convergence on the Grassmannian manifold, and prove that the update sequence derived
+                                by the PGD solver achieves first- and second-order criticality
                                 </div>
                             <!-- </div>
                             <a href="notes/TNRG.pdf" download="TNRG.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a>
@@ -317,7 +324,7 @@ weight: 30
                                We propose novel sketching algorithms for both tensor decompositions and tensor networks. Sketching involves employing random matrices, also known as embeddings, to project data onto low-dimensional spaces, thereby reducing the computational cost of subsequent operations. In the context of data with a tensor network structure, we present efficient algorithms that utilize tensor network-structured embeddings to sketch the data. Moreover, we provide theoretical bounds on the accuracy of sketching achieved through these algorithms. The proposed sketching techniques are used to accelerate various problems involving tensor networks, including CP and Tucker tensor decompositions and tensor train rounding.
                                 </div>
                             </div>
-                            <!-- <a href="notes/TNRG.pdf" download="TNRG.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a> -->
+                            <a href="notes/pre_linjian_ma.pdf" download="pre_linjian_ma.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a>
                             <a href="https://youtu.be/YkfSZ26Opzw" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a>
                         </li>
                     </ul>
