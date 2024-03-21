@@ -35,34 +35,6 @@ weight: 30
                 <div class="left" style="margin-bottom: 10px;">
                     <h3 style="text-align:center; font-style: italic;"> Upcoming Talks, Winter 2024</h3>
                     <!-- Add a new talk -->
-                    <h4 style="margin-top: 20px;">Mar 19, 2024</h4>
-                    <ul style="padding-left: 0;">
-                        <li style="list-style-type: none;">
-                            <b>
-                                <a style="color: #2c3e50;"> Title: When randomized algorithms meet tensor decompositions </a> 
-                            </b>
-                            <br> Presenter: Beheshteh T. Rakhshan 
-                            <br>
-                            <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
-                                Speaker Bio
-                            </a> -->
-                            <!-- <div class="collapse" id="newTalkBio">
-                                <div class="card card-body" style="margin-top: 10px;">
-                                    Guillaume Rabusseau is an assistant professor at Univeristé de Montréal since 2018 and holds a Canada CIFAR AI chair at the Mila research institute since 2019. Prior to joining Mila, he was an IVADO postdoctoral research fellow in the Reasoning and Learning Lab at McGill University, where he worked with Prakash Panangaden, Joelle Pineau and Doina Precup. He obtained his PhD in computer science in 2016 at Aix-Marseille University under the supervision of François Denis and Hachem Kadri. His research interests lie at the intersection of theoretical computer science and machine learning, and his work revolves around exploring inter-connections between tensors and machine learning to develop efficient learning methods for structured data relying on linear and multilinear algebra, and on the tensor network formalism.
-                                </div>
-                            </div> -->
-                            <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract_mar19" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
-                                Abstract
-                            </a>
-                            <div class="collapse" id="newTalkAbstract_mar19">
-                                <div class="card card-body" style="margin-top: 10px;">    
-                            Tensor decomposition methods have recently found numerous applications in machine learning. Their ability to perform operations efficiently on very high-dimensional tensor data makes them ubiquitous in data science and machine learning. Due to the curse of dimensionality of tensors, designing efficient algorithms for very high dimensional tensor data is challenging. On the other hand, finding a decomposition of high-dimensional tensors is crucial. Many tensor decompositions correspond to either difficult non-convex optimization problems or the running time is exponential in the order of a tensor. To address these issues, several recent works have developed randomized-based algorithms. These issues have led to the search for alternatives based on randomization and sampling techniques. In this talk, we will be giving a tutorial on randomized algorithms and their application in tensor network methods.
-                                </div>
-                            <!-- </div>
-                            <a href="notes/TNRG.pdf" download="TNRG.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a>
-                            <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a> -->
-                        </li>
-                    </ul>
                     <h4 style="margin-top: 20px;">Mar 26, 2024</h4>
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
@@ -187,6 +159,34 @@ weight: 30
                     <h3 style="text-align:center; font-style: italic;"> Past Talks, Winter 2024</h3>
                     <!-- Add more talks here if needed -->
                      <!-- Add more talks here if needed -->
+                     <h4 style="margin-top: 20px;">Mar 19, 2024</h4>
+                    <ul style="padding-left: 0;">
+                        <li style="list-style-type: none;">
+                            <b>
+                                <a style="color: #2c3e50;"> Title: When randomized algorithms meet tensor decompositions </a> 
+                            </b>
+                            <br> Presenter: Beheshteh T. Rakhshan 
+                            <br>
+                            <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Speaker Bio
+                            </a> -->
+                            <!-- <div class="collapse" id="newTalkBio">
+                                <div class="card card-body" style="margin-top: 10px;">
+                                    Guillaume Rabusseau is an assistant professor at Univeristé de Montréal since 2018 and holds a Canada CIFAR AI chair at the Mila research institute since 2019. Prior to joining Mila, he was an IVADO postdoctoral research fellow in the Reasoning and Learning Lab at McGill University, where he worked with Prakash Panangaden, Joelle Pineau and Doina Precup. He obtained his PhD in computer science in 2016 at Aix-Marseille University under the supervision of François Denis and Hachem Kadri. His research interests lie at the intersection of theoretical computer science and machine learning, and his work revolves around exploring inter-connections between tensors and machine learning to develop efficient learning methods for structured data relying on linear and multilinear algebra, and on the tensor network formalism.
+                                </div>
+                            </div> -->
+                            <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract_mar19" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Abstract
+                            </a>
+                            <div class="collapse" id="newTalkAbstract_mar19">
+                                <div class="card card-body" style="margin-top: 10px;">    
+                            Tensor decomposition methods have recently found numerous applications in machine learning. Their ability to perform operations efficiently on very high-dimensional tensor data makes them ubiquitous in data science and machine learning. Due to the curse of dimensionality of tensors, designing efficient algorithms for very high dimensional tensor data is challenging. On the other hand, finding a decomposition of high-dimensional tensors is crucial. Many tensor decompositions correspond to either difficult non-convex optimization problems or the running time is exponential in the order of a tensor. To address these issues, several recent works have developed randomized-based algorithms. These issues have led to the search for alternatives based on randomization and sampling techniques. In this talk, we will be giving a tutorial on randomized algorithms and their application in tensor network methods.
+                                </div>
+                            </div>
+                            <!-- <a href="notes/TNRG.pdf" download="TNRG.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a> -->
+                            <a href="https://youtu.be/_ArtT2W8SHY" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a>
+                        </li>
+                    </ul>
                      <h4 style="margin-top: 20px;">Mar 12, 2024</h4>
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
@@ -222,9 +222,9 @@ weight: 30
                                 that uses the true Tucker decomposition loss at
                                 each step, while also running up to 1000x faster
                                 </div>
-                            <!-- </div>
-                            <a href="notes/TNRG.pdf" download="TNRG.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a>
-                            <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a> -->
+                            </div>
+                            <!-- <a href="notes/TNRG.pdf" download="TNRG.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a> -->
+                            <a href="https://youtu.be/K63Al4qEaVA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a>
                         </li>
                     </ul>
                      <h4 style="margin-top: 20px;">Mar 5, 2024</h4>
