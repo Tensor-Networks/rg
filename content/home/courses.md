@@ -35,72 +35,6 @@ weight: 30
                 <div class="left" style="margin-bottom: 10px;">
                     <h3 style="text-align:center; font-style: italic;"> Upcoming Talks, Winter 2024</h3>
                     <!-- Add a new talk -->
-                    <h4 style="margin-top: 20px;">Mar 26, 2024</h4>
-                    <ul style="padding-left: 0;">
-                        <li style="list-style-type: none;">
-                            <b>
-                                <a style="color: #2c3e50;"> Title: Scalable symmetric Tucker tensor decomposition </a> 
-                            </b>
-                            <br> Presenter: Ruhui Jin 
-                            <br>
-                            <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
-                                Speaker Bio
-                            </a> -->
-                            <!-- <div class="collapse" id="newTalkBio">
-                                <div class="card card-body" style="margin-top: 10px;">
-                                    Guillaume Rabusseau is an assistant professor at Univeristé de Montréal since 2018 and holds a Canada CIFAR AI chair at the Mila research institute since 2019. Prior to joining Mila, he was an IVADO postdoctoral research fellow in the Reasoning and Learning Lab at McGill University, where he worked with Prakash Panangaden, Joelle Pineau and Doina Precup. He obtained his PhD in computer science in 2016 at Aix-Marseille University under the supervision of François Denis and Hachem Kadri. His research interests lie at the intersection of theoretical computer science and machine learning, and his work revolves around exploring inter-connections between tensors and machine learning to develop efficient learning methods for structured data relying on linear and multilinear algebra, and on the tensor network formalism.
-                                </div>
-                            </div> -->
-                            <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract_mar26" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
-                                Abstract
-                            </a>
-                            <div class="collapse" id="newTalkAbstract_mar26">
-                                <div class="card card-body" style="margin-top: 10px;">    
-                               We study the best low-rank Tucker decomposition of symmetric tensors. The motivating application
-                                is decomposing higher-order multivariate moments. Moment tensors have special structure and are
-                                important to various data science problems. We advocate for projected gradient descent (PGD) method
-                                and higher-order eigenvalue decomposition (HOEVD) approximation as computation schemes. Most
-                                importantly, we develop scalable adaptations of the basic PGD and HOEVD methods to decompose
-                                sample moment tensors. With the help of implicit and streaming techniques, we evade the overhead cost
-                                of building and storing the moment tensor. Such reductions make computing the Tucker decomposition
-                                realizable for large data instances in high dimensions. Numerical experiments demonstrate the efficiency
-                                of the algorithms and the applicability of moment tensor decompositions to real-world datasets. Finally
-                                we study the convergence on the Grassmannian manifold, and prove that the update sequence derived
-                                by the PGD solver achieves first- and second-order criticality
-                                </div>
-                            <!-- </div>
-                            <a href="notes/TNRG.pdf" download="TNRG.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a>
-                            <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a> -->
-                        </li>
-                    </ul>
-                    <h4 style="margin-top: 20px;">Apr 2, 2024</h4>
-                    <ul style="padding-left: 0;">
-                        <li style="list-style-type: none;">
-                            <b>
-                                <a style="color: #2c3e50;"> Title: Equivariant Polynomials for Graph Neural Networks </a> 
-                            </b>
-                            <br> Presenter: Bobak Kiani 
-                            <br>
-                            <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio_apr2" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
-                                Speaker Bio
-                            </a> 
-                             <div class="collapse" id="newTalkBio_apr2">
-                                <div class="card card-body" style="margin-top: 10px;">
-                                    I am a postdoc at Harvard University in the Applied Mathematics and Computer Science department. Before this, I was a PhD student at MIT studying Electrical Engineering and Computer Science. My research areas are related to machine learning and quantum computation. In quantum computation, my work focuses on learning the limits and capabilities of algorithms especially those related to quantum machine learning. On the classical side, I am interested in theoretically studying the role of geometry and symmetries in learning algorithms.
-                                </div>
-                            </div> 
-                            <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract_apr2" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
-                                Abstract
-                            </a>
-                            <div class="collapse" id="newTalkAbstract_apr2">
-                                <div class="card card-body" style="margin-top: 10px;">    
-                                I will discuss applications of invariant and equivariant polynomials in learning on graph data. Our work presents an alternative expressiveness hierarchy for graph neural networks (GNNs) based on the ability of GNNs to calculate equivariant polynomials of a certain degree. I will present a basis for any graph equivariant polynomial and show how this basis can enhance expressivity and performance of GNN models. This work is in collaboration with colleagues at Meta AI, Weizmann, and MIT.
-                                </div>
-                            <!-- </div>
-                            <a href="notes/TNRG.pdf" download="TNRG.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a>
-                            <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a> -->
-                        </li>
-                    </ul>
                     <h4 style="margin-top: 20px;">Apr 9, 2024</h4>
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
@@ -159,6 +93,72 @@ weight: 30
                     <h3 style="text-align:center; font-style: italic;"> Past Talks, Winter 2024</h3>
                     <!-- Add more talks here if needed -->
                      <!-- Add more talks here if needed -->
+                       <h4 style="margin-top: 20px;">Apr 2, 2024</h4>
+                    <ul style="padding-left: 0;">
+                        <li style="list-style-type: none;">
+                            <b>
+                                <a style="color: #2c3e50;"> Title: Equivariant Polynomials for Graph Neural Networks </a> 
+                            </b>
+                            <br> Presenter: Bobak Kiani 
+                            <br>
+                            <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio_apr2" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Speaker Bio
+                            </a> 
+                             <div class="collapse" id="newTalkBio_apr2">
+                                <div class="card card-body" style="margin-top: 10px;">
+                                    I am a postdoc at Harvard University in the Applied Mathematics and Computer Science department. Before this, I was a PhD student at MIT studying Electrical Engineering and Computer Science. My research areas are related to machine learning and quantum computation. In quantum computation, my work focuses on learning the limits and capabilities of algorithms especially those related to quantum machine learning. On the classical side, I am interested in theoretically studying the role of geometry and symmetries in learning algorithms.
+                                </div>
+                            </div> 
+                            <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract_apr2" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Abstract
+                            </a>
+                            <div class="collapse" id="newTalkAbstract_apr2">
+                                <div class="card card-body" style="margin-top: 10px;">    
+                                I will discuss applications of invariant and equivariant polynomials in learning on graph data. Our work presents an alternative expressiveness hierarchy for graph neural networks (GNNs) based on the ability of GNNs to calculate equivariant polynomials of a certain degree. I will present a basis for any graph equivariant polynomial and show how this basis can enhance expressivity and performance of GNN models. This work is in collaboration with colleagues at Meta AI, Weizmann, and MIT.
+                                </div>
+                            <!-- </div>
+                            <a href="notes/TNRG.pdf" download="TNRG.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a>
+                            <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a> -->
+                        </li>
+                    </ul>
+                    <h4 style="margin-top: 20px;">Mar 26, 2024</h4>
+                    <ul style="padding-left: 0;">
+                        <li style="list-style-type: none;">
+                            <b>
+                                <a style="color: #2c3e50;"> Title: Scalable symmetric Tucker tensor decomposition </a> 
+                            </b>
+                            <br> Presenter: Ruhui Jin 
+                            <br>
+                            <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Speaker Bio
+                            </a> -->
+                            <!-- <div class="collapse" id="newTalkBio">
+                                <div class="card card-body" style="margin-top: 10px;">
+                                    Guillaume Rabusseau is an assistant professor at Univeristé de Montréal since 2018 and holds a Canada CIFAR AI chair at the Mila research institute since 2019. Prior to joining Mila, he was an IVADO postdoctoral research fellow in the Reasoning and Learning Lab at McGill University, where he worked with Prakash Panangaden, Joelle Pineau and Doina Precup. He obtained his PhD in computer science in 2016 at Aix-Marseille University under the supervision of François Denis and Hachem Kadri. His research interests lie at the intersection of theoretical computer science and machine learning, and his work revolves around exploring inter-connections between tensors and machine learning to develop efficient learning methods for structured data relying on linear and multilinear algebra, and on the tensor network formalism.
+                                </div>
+                            </div> -->
+                            <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract_mar26" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
+                                Abstract
+                            </a>
+                            <div class="collapse" id="newTalkAbstract_mar26">
+                                <div class="card card-body" style="margin-top: 10px;">    
+                               We study the best low-rank Tucker decomposition of symmetric tensors. The motivating application
+                                is decomposing higher-order multivariate moments. Moment tensors have special structure and are
+                                important to various data science problems. We advocate for projected gradient descent (PGD) method
+                                and higher-order eigenvalue decomposition (HOEVD) approximation as computation schemes. Most
+                                importantly, we develop scalable adaptations of the basic PGD and HOEVD methods to decompose
+                                sample moment tensors. With the help of implicit and streaming techniques, we evade the overhead cost
+                                of building and storing the moment tensor. Such reductions make computing the Tucker decomposition
+                                realizable for large data instances in high dimensions. Numerical experiments demonstrate the efficiency
+                                of the algorithms and the applicability of moment tensor decompositions to real-world datasets. Finally
+                                we study the convergence on the Grassmannian manifold, and prove that the update sequence derived
+                                by the PGD solver achieves first- and second-order criticality
+                                </div>
+                            <!-- </div>
+                            <a href="notes/TNRG.pdf" download="TNRG.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a>
+                            <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a> -->
+                        </li>
+                    </ul>
                      <h4 style="margin-top: 20px;">Mar 19, 2024</h4>
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
