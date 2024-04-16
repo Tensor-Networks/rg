@@ -34,7 +34,7 @@ weight: 30
             <div class="listing" style="clear:both;">
                 <div class="left" style="margin-bottom: 10px;">
                     <h3 style="text-align:center; font-style: italic;"> Upcoming Talks, Winter 2024</h3>
-                     <h4 style="margin-top: 20px;">Apr 9, 2024</h4>
+                     <h4 style="margin-top: 20px;">Apr 23, 2024</h4>
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
                             <b>
