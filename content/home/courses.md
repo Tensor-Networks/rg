@@ -90,7 +90,7 @@ weight: 30
                                 </div>
                             </div>
                             <a href="notes/talk_DEMOTE.pdf" download="talk_DEMOTE.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a>
-                            <!-- <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a> -->
+                            <a href="https://youtu.be/Ksj2kB6RSk0" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a>
                         </li>
                     </ul>
                        <h4 style="margin-top: 20px;">Apr 2, 2024</h4>
