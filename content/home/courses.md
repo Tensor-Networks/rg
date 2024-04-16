@@ -34,7 +34,23 @@ weight: 30
             <div class="listing" style="clear:both;">
                 <div class="left" style="margin-bottom: 10px;">
                     <h3 style="text-align:center; font-style: italic;"> Upcoming Talks, Winter 2024</h3>
-                    <!-- Add a new talk -->
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+---
+
+<section id="courses" class="some-section">
+    <div class="row">
+        <div class="col-12">
+            <div class="listing" style="clear:both;">
+                <div class="left" style="margin-bottom: 10px;">
+                    <h3 style="text-align:center; font-style: italic;"> Past Talks, Winter 2024</h3>
+                    <!-- Add more talks here if needed -->
+                     <!-- Add more talks here if needed -->
+                     <!-- Add a new talk -->
                     <h4 style="margin-top: 20px;">Apr 9, 2024</h4>
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
@@ -72,27 +88,11 @@ weight: 30
                                 learning algorithm. We propose a stratified sampling method to balance the cost of
                                 processing each mini-batch so as to improve the overall efficiency. We show the advantage of our approach in both simulation study and real-world applications.
                                 </div>
-                            <!-- </div>
-                            <a href="notes/TNRG.pdf" download="TNRG.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a>
-                            <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a> -->
+                            </div>
+                            <a href="notes/talk_DEMOTE.pdf" download="talk_DEMOTE.pdf" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Notes</a>
+                            <!-- <a href="https://www.youtube.com/channel/UCajE0Tzf0r3qORFsQIemglA" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a> -->
                         </li>
                     </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
----
-
-<section id="courses" class="some-section">
-    <div class="row">
-        <div class="col-12">
-            <div class="listing" style="clear:both;">
-                <div class="left" style="margin-bottom: 10px;">
-                    <h3 style="text-align:center; font-style: italic;"> Past Talks, Winter 2024</h3>
-                    <!-- Add more talks here if needed -->
-                     <!-- Add more talks here if needed -->
                        <h4 style="margin-top: 20px;">Apr 2, 2024</h4>
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
