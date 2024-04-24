@@ -29,7 +29,21 @@ weight: 30
 ---
 ---
 <section id="courses" class="some-section">
+
+</section>
+
+---
+
+<section id="courses" class="some-section">
     <div class="row">
+        <div class="col-12">
+            <div class="listing" style="clear:both;">
+                <div class="left" style="margin-bottom: 10px;">
+                    <h3 style="text-align:center; font-style: italic;"> Past Talks, Winter 2024</h3>
+                    <!-- Add more talks here if needed -->
+                     <!-- Add more talks here if needed -->
+                     <!-- Add a new talk -->
+                         <div class="row">
         <div class="col-12">
             <div class="listing" style="clear:both;">
                 <div class="left" style="margin-bottom: 10px;">
@@ -77,19 +91,6 @@ weight: 30
             </div>
         </div>
     </div>
-</section>
-
----
-
-<section id="courses" class="some-section">
-    <div class="row">
-        <div class="col-12">
-            <div class="listing" style="clear:both;">
-                <div class="left" style="margin-bottom: 10px;">
-                    <h3 style="text-align:center; font-style: italic;"> Past Talks, Winter 2024</h3>
-                    <!-- Add more talks here if needed -->
-                     <!-- Add more talks here if needed -->
-                     <!-- Add a new talk -->
                     <h4 style="margin-top: 20px;">Apr 9, 2024</h4>
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
