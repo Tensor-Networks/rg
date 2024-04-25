@@ -46,7 +46,6 @@ weight: 30
                     <!-- Add more talks here if needed -->
                      <!-- Add more talks here if needed -->
                      <!-- Add a new talk -->
-                         <div class="row">
                      <h4 style="margin-top: 20px;">Apr 23, 2024</h4>
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
@@ -89,7 +88,6 @@ weight: 30
                 </div>
             </div>
         </div>
-    </div>
                     <h4 style="margin-top: 20px;">Apr 9, 2024</h4>
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
