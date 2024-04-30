@@ -77,9 +77,6 @@ weight: 30
                             <!-- <a href="https://youtu.be/Ksj2kB6RSk0" class="btn btn-primary btn-xs" style="margin-top: 10px;"> Recording Link</a> -->
                         </li>
                     </ul>
-                </div>
-            </div>
-        </div>
                     <h4 style="margin-top: 20px;">Apr 9, 2024</h4>
                     <ul style="padding-left: 0;">
                         <li style="list-style-type: none;">
@@ -150,14 +147,6 @@ weight: 30
                             </b>
                             <br> Presenter: Ruhui Jin 
                             <br>
-                            <!-- <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkBio" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
-                                Speaker Bio
-                            </a> -->
-                            <!-- <div class="collapse" id="newTalkBio">
-                                <div class="card card-body" style="margin-top: 10px;">
-                                    Guillaume Rabusseau is an assistant professor at Univeristé de Montréal since 2018 and holds a Canada CIFAR AI chair at the Mila research institute since 2019. Prior to joining Mila, he was an IVADO postdoctoral research fellow in the Reasoning and Learning Lab at McGill University, where he worked with Prakash Panangaden, Joelle Pineau and Doina Precup. He obtained his PhD in computer science in 2016 at Aix-Marseille University under the supervision of François Denis and Hachem Kadri. His research interests lie at the intersection of theoretical computer science and machine learning, and his work revolves around exploring inter-connections between tensors and machine learning to develop efficient learning methods for structured data relying on linear and multilinear algebra, and on the tensor network formalism.
-                                </div>
-                            </div> -->
                             <a class="btn btn-primary btn-xs" data-toggle="collapse" href="#newTalkAbstract_mar26" role="button" aria-expanded="false" aria-controls="collapseExample" style="margin-top: 10px;">
                                 Abstract
                             </a>
